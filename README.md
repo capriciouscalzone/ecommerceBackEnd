@@ -8,3 +8,7 @@
 ## quit
 ## npm run seed
 ## npm start
+
+
+
+Link to video:https://app.castify.com/view/1c0c3d5d-09f1-42d6-a429-70a528cf7b87
