@@ -4,6 +4,7 @@
 # installation
 ## npm i
 ## mysql -u root -p
+## source db/schema.sql
 ## quit
 ## npm run seed
 ## npm start
